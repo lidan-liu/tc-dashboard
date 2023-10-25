@@ -1,0 +1,1830 @@
+{
+    "build": [
+        {
+            "id": 2722895,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126229",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17181",
+            "href": "/app/rest/builds/id:2722895",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722895&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T181703+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722767,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126227",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17201",
+            "href": "/app/rest/builds/id:2722767",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722767&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T164405+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722729,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126226",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17195",
+            "href": "/app/rest/builds/id:2722729",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722729&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T164815+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722716,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126225",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17183",
+            "href": "/app/rest/builds/id:2722716",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722716&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T164030+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722753,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126224",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17199",
+            "href": "/app/rest/builds/id:2722753",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722753&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T164755+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722579,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126223",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/16967",
+            "href": "/app/rest/builds/id:2722579",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722579&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T162938+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722592,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126222",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17157",
+            "href": "/app/rest/builds/id:2722592",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722592&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T162722+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722605,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126221",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17170",
+            "href": "/app/rest/builds/id:2722605",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722605&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T163119+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722631,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126219",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17200",
+            "href": "/app/rest/builds/id:2722631",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722631&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T163120+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722645,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126218",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "master",
+            "defaultBranch": true,
+            "href": "/app/rest/builds/id:2722645",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722645&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T161233+0100",
+            "customized": true,
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722516,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126217",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17199",
+            "href": "/app/rest/builds/id:2722516",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722516&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T161318+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722506,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126216",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17166",
+            "href": "/app/rest/builds/id:2722506",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722506&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T154330+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722500,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126215",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17119",
+            "href": "/app/rest/builds/id:2722500",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722500&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T153447+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722486,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126214",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/16967",
+            "href": "/app/rest/builds/id:2722486",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722486&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T153612+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722462,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126213",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17192",
+            "href": "/app/rest/builds/id:2722462",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722462&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T153531+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722449,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126212",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17113",
+            "href": "/app/rest/builds/id:2722449",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722449&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T152906+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722407,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126211",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17119",
+            "href": "/app/rest/builds/id:2722407",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722407&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T151715+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722420,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126210",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17184",
+            "href": "/app/rest/builds/id:2722420",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722420&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T151503+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722365,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126209",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17199",
+            "href": "/app/rest/builds/id:2722365",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722365&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T150339+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722327,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126208",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17185",
+            "href": "/app/rest/builds/id:2722327",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722327&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T150549+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722391,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126207",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17106",
+            "href": "/app/rest/builds/id:2722391",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722391&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T145622+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722313,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126206",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17198",
+            "href": "/app/rest/builds/id:2722313",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722313&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T145938+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722235,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126205",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17183",
+            "href": "/app/rest/builds/id:2722235",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722235&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T145500+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722109,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126204",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/16967",
+            "href": "/app/rest/builds/id:2722109",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722109&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T144951+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721971,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126203",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17195",
+            "href": "/app/rest/builds/id:2721971",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721971&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T145153+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722135,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126202",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17166",
+            "href": "/app/rest/builds/id:2722135",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722135&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T144732+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722069,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126201",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17170",
+            "href": "/app/rest/builds/id:2722069",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722069&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T144420+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722122,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126200",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17157",
+            "href": "/app/rest/builds/id:2722122",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722122&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T144821+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722017,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126199",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17092",
+            "href": "/app/rest/builds/id:2722017",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722017&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T143948+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722030,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126198",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17123",
+            "href": "/app/rest/builds/id:2722030",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722030&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T143259+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722259,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126197",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "master",
+            "defaultBranch": true,
+            "href": "/app/rest/builds/id:2722259",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722259&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T142834+0100",
+            "customized": true,
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721727,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126196",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17148",
+            "href": "/app/rest/builds/id:2721727",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721727&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T143155+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721896,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126195",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17143",
+            "href": "/app/rest/builds/id:2721896",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721896&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T143007+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722249,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126194",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "master",
+            "defaultBranch": true,
+            "href": "/app/rest/builds/id:2722249",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722249&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T141651+0100",
+            "customized": true,
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721857,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126193",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/16967",
+            "href": "/app/rest/builds/id:2721857",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721857&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T141004+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721568,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126192",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/16860",
+            "href": "/app/rest/builds/id:2721568",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721568&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T141006+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721870,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126191",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17092",
+            "href": "/app/rest/builds/id:2721870",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721870&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T140549+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2722177,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126190",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "master",
+            "defaultBranch": true,
+            "href": "/app/rest/builds/id:2722177",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2722177&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T141623+0100",
+            "customized": true,
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721598,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126189",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17195",
+            "href": "/app/rest/builds/id:2721598",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721598&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T140929+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721653,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126188",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17197",
+            "href": "/app/rest/builds/id:2721653",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721653&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T141016+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721506,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126186",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17183",
+            "href": "/app/rest/builds/id:2721506",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721506&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T140052+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721581,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126185",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17184",
+            "href": "/app/rest/builds/id:2721581",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721581&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T140321+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721532,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126184",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17193",
+            "href": "/app/rest/builds/id:2721532",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721532&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T140006+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721480,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126183",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17170",
+            "href": "/app/rest/builds/id:2721480",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721480&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T135515+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721467,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126182",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/16492",
+            "href": "/app/rest/builds/id:2721467",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721467&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T135237+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721795,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126181",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "master",
+            "defaultBranch": true,
+            "href": "/app/rest/builds/id:2721795",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721795&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T134652+0100",
+            "customized": true,
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721453,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126180",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17166",
+            "href": "/app/rest/builds/id:2721453",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721453&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T134856+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721440,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126179",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17157",
+            "href": "/app/rest/builds/id:2721440",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721440&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T131723+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721414,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126178",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17143",
+            "href": "/app/rest/builds/id:2721414",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721414&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T132357+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721427,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126177",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17148",
+            "href": "/app/rest/builds/id:2721427",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721427&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T131922+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721401,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126176",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17123",
+            "href": "/app/rest/builds/id:2721401",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721401&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T131342+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721388,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126175",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17119",
+            "href": "/app/rest/builds/id:2721388",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721388&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T131156+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721375,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126174",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17106",
+            "href": "/app/rest/builds/id:2721375",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721375&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T130741+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721362,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126173",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17092",
+            "href": "/app/rest/builds/id:2721362",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721362&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T131051+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721349,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126172",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17020",
+            "href": "/app/rest/builds/id:2721349",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721349&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T130521+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721336,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126171",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/16967",
+            "href": "/app/rest/builds/id:2721336",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721336&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T130931+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721493,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126170",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17179",
+            "href": "/app/rest/builds/id:2721493",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721493&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T125428+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721313,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126169",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17190",
+            "href": "/app/rest/builds/id:2721313",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721313&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T130402+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721257,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126168",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17196",
+            "href": "/app/rest/builds/id:2721257",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721257&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T130117+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721162,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126166",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17184",
+            "href": "/app/rest/builds/id:2721162",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721162&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T123949+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721216,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126165",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17133",
+            "href": "/app/rest/builds/id:2721216",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721216&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T124020+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721244,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126164",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17180",
+            "href": "/app/rest/builds/id:2721244",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721244&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T124225+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721139,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126163",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17102",
+            "href": "/app/rest/builds/id:2721139",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721139&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T123451+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721546,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126162",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "master",
+            "defaultBranch": true,
+            "href": "/app/rest/builds/id:2721546",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721546&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T123208+0100",
+            "customized": true,
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721105,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126161",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17194",
+            "href": "/app/rest/builds/id:2721105",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721105&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T123546+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721079,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126160",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17185",
+            "href": "/app/rest/builds/id:2721079",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721079&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T123315+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721092,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126159",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17191",
+            "href": "/app/rest/builds/id:2721092",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721092&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T123104+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721057,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126158",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17183",
+            "href": "/app/rest/builds/id:2721057",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721057&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T123139+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721044,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126157",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17179",
+            "href": "/app/rest/builds/id:2721044",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721044&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T123036+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720953,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126156",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17119",
+            "href": "/app/rest/builds/id:2720953",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720953&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T122129+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721031,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126155",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17170",
+            "href": "/app/rest/builds/id:2721031",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721031&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T122215+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721277,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126154",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17155",
+            "href": "/app/rest/builds/id:2721277",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721277&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T123202+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721226,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126153",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17180",
+            "href": "/app/rest/builds/id:2721226",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721226&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T121153+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721005,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126152",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17157",
+            "href": "/app/rest/builds/id:2721005",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721005&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T120636+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721153,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126151",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/16967",
+            "href": "/app/rest/builds/id:2721153",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721153&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T115302+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720927,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126150",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17106",
+            "href": "/app/rest/builds/id:2720927",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720927&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T120248+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720901,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126149",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/16967",
+            "href": "/app/rest/builds/id:2720901",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720901&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T120402+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720966,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126148",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17123",
+            "href": "/app/rest/builds/id:2720966",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720966&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T120359+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720979,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126147",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17143",
+            "href": "/app/rest/builds/id:2720979",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720979&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T115109+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720940,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126146",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17107",
+            "href": "/app/rest/builds/id:2720940",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720940&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T114800+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721018,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126145",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17166",
+            "href": "/app/rest/builds/id:2721018",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721018&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T115255+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720992,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126144",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17148",
+            "href": "/app/rest/builds/id:2720992",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720992&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T115217+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720914,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126143",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17092",
+            "href": "/app/rest/builds/id:2720914",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720914&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T114443+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720875,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126142",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17155",
+            "href": "/app/rest/builds/id:2720875",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720875&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T114438+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720846,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126141",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17182",
+            "href": "/app/rest/builds/id:2720846",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720846&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T114359+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2721071,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126140",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "master",
+            "defaultBranch": true,
+            "href": "/app/rest/builds/id:2721071",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2721071&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T114044+0100",
+            "customized": true,
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720859,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126139",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17193",
+            "href": "/app/rest/builds/id:2720859",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720859&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T114518+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720739,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126138",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17190",
+            "href": "/app/rest/builds/id:2720739",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720739&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T111455+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720812,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126137",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17142",
+            "href": "/app/rest/builds/id:2720812",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720812&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T111028+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720808,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126136",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17180",
+            "href": "/app/rest/builds/id:2720808",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720808&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T111509+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720790,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126135",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "CLTV-15958",
+            "href": "/app/rest/builds/id:2720790",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720790&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T110421+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720616,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126134",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17107",
+            "href": "/app/rest/builds/id:2720616",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720616&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T110928+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720589,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126133",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17138",
+            "href": "/app/rest/builds/id:2720589",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720589&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T110837+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720781,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126132",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/16967",
+            "href": "/app/rest/builds/id:2720781",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720781&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T110612+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720602,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126131",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17143",
+            "href": "/app/rest/builds/id:2720602",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720602&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T110523+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720559,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126130",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17160",
+            "href": "/app/rest/builds/id:2720559",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720559&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T110951+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720572,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126129",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17191",
+            "href": "/app/rest/builds/id:2720572",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720572&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T105812+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720546,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126128",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17119",
+            "href": "/app/rest/builds/id:2720546",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720546&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T105733+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720629,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126127",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17121",
+            "history": true,
+            "href": "/app/rest/builds/id:2720629",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720629&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T105544+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720749,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126126",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17142",
+            "href": "/app/rest/builds/id:2720749",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720749&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T105550+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720533,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126125",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17113",
+            "href": "/app/rest/builds/id:2720533",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720533&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T104955+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720392,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126124",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17092",
+            "href": "/app/rest/builds/id:2720392",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720392&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T103001+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720470,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126123",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17166",
+            "href": "/app/rest/builds/id:2720470",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720470&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T103519+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720418,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126122",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17123",
+            "href": "/app/rest/builds/id:2720418",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720418&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T102816+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720496,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126121",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17179",
+            "href": "/app/rest/builds/id:2720496",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720496&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T102659+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720511,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126120",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17183",
+            "href": "/app/rest/builds/id:2720511",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720511&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T103317+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720379,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126119",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/16967",
+            "href": "/app/rest/builds/id:2720379",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720379&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T103118+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720431,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126118",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17142",
+            "href": "/app/rest/builds/id:2720431",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720431&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T102714+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720457,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126117",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17157",
+            "href": "/app/rest/builds/id:2720457",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720457&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T102702+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720444,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126116",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17148",
+            "href": "/app/rest/builds/id:2720444",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720444&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T102309+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720405,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126115",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17106",
+            "href": "/app/rest/builds/id:2720405",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720405&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T102541+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720483,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126114",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17170",
+            "href": "/app/rest/builds/id:2720483",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720483&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T101549+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720525,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126113",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "master",
+            "defaultBranch": true,
+            "href": "/app/rest/builds/id:2720525",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720525&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T101434+0100",
+            "customized": true,
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720359,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126112",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17165",
+            "href": "/app/rest/builds/id:2720359",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720359&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T100527+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720352,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126111",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17186",
+            "href": "/app/rest/builds/id:2720352",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720352&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T093947+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720329,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126110",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17186",
+            "href": "/app/rest/builds/id:2720329",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720329&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T093541+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720340,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126109",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17186",
+            "href": "/app/rest/builds/id:2720340",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720340&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T093510+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720318,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126108",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17186",
+            "href": "/app/rest/builds/id:2720318",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720318&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T093631+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720346,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126107",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17191",
+            "href": "/app/rest/builds/id:2720346",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720346&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T093439+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720290,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126106",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17192",
+            "href": "/app/rest/builds/id:2720290",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720290&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T092715+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720268,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126105",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17166",
+            "href": "/app/rest/builds/id:2720268",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720268&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T072353+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720263,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126104",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17119",
+            "href": "/app/rest/builds/id:2720263",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720263&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T070727+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720258,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126103",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17092",
+            "href": "/app/rest/builds/id:2720258",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720258&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T064748+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720246,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126102",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/17020",
+            "href": "/app/rest/builds/id:2720246",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720246&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T063732+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720207,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126101",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/16492",
+            "href": "/app/rest/builds/id:2720207",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720207&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T063204+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720233,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126100",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/16860",
+            "href": "/app/rest/builds/id:2720233",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720233&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T063333+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720220,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126099",
+            "status": "SUCCESS",
+            "state": "finished",
+            "branchName": "pull/16615",
+            "href": "/app/rest/builds/id:2720220",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720220&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T062956+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720173,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126098",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17188",
+            "href": "/app/rest/builds/id:2720173",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720173&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T010449+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        },
+        {
+            "id": 2720153,
+            "buildTypeId": "DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "number": "126097",
+            "status": "FAILURE",
+            "state": "finished",
+            "branchName": "pull/17191",
+            "href": "/app/rest/builds/id:2720153",
+            "webUrl": "https://tango.tools.trainline.com/viewLog.html?buildId=2720153&buildTypeId=DesktopWeb_Tests_UiAcceptanceTestsMocked",
+            "finishOnAgentDate": "20231020T000153+0100",
+            "matrixConfiguration": {
+                "enabled": false
+            }
+        }
+    ],
+    "href": "/app/rest/builds?locator=count:1000,buildType:DesktopWeb_Tests_UiAcceptanceTestsMocked,branch:default:any",
+    "nextHref": "/app/rest/builds?locator=branch:(default:any),buildType:DesktopWeb_Tests_UiAcceptanceTestsMocked,count:1000,start:1000",
+    "count": 1000
+}
